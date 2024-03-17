@@ -20,6 +20,8 @@
 
 ![tomoyo519's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomoyo519&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoyo519&layout=compact)](https://github.com/tomoyo519/github-readme-stats)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=i2sign)](https://solved.ac/i2sign/)
 
 # :mailbox_with_mail: Contacts
